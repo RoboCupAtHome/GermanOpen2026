@@ -25,7 +25,7 @@ Individual Task scores can be found [here](scores.md)
 | 16:00 |                  | GPSR (1st & 2nd try)          |                               | Restaurant |        |
 | 17:00 | Robot Inspection | Major Reception               | GPSR (3rd & 4th try)          |            |        |
 | 18:00 | Poster Session   |                               |                               |            |        |
-| 19:00 |                  |                               |                               |            |        |
+| 19:00 |                  | Team Leader Meeting           | Team Leader Meeting           |  Team Leader Meeting |        |
 | 20:00 |                  |                               |                               |            |        |
 
 ### Team Schedule
