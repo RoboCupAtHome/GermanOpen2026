@@ -21,6 +21,17 @@
 | orange | ![](known_objects/fruits!fruit/orange.jpg) |
 
 
+# Class snacks (snack)
+
+| Objectname               |  Image                   |
+:-------------------------:|:-------------------------:
+| pringles | ![](known_objects/snacks!snack/pringles.jpg) |
+| cookies | ![](known_objects/snacks!snack/cookies.jpg) |
+| gum | ![](known_objects/snacks!snack/gum.jpg) |
+| chips | ![](known_objects/snacks!snack/chips.jpg) |
+| mixed_nuts | ![](known_objects/snacks!snack/mixed_nuts.jpg) |
+
+
 # Class toiletries (toiletry)
 
 | Objectname               |  Image                   |
@@ -51,17 +62,6 @@
 | plate | ![](known_objects/dishes!dish/plate.png) |
 | knife | ![](known_objects/dishes!dish/knife.png) |
 | spoon | ![](known_objects/dishes!dish/spoon.png) |
-
-
-# Class snacks (snkack)
-
-| Objectname               |  Image                   |
-:-------------------------:|:-------------------------:
-| pringles | ![](known_objects/snacks!snkack/pringles.jpg) |
-| cookies | ![](known_objects/snacks!snkack/cookies.jpg) |
-| gum | ![](known_objects/snacks!snkack/gum.jpg) |
-| chips | ![](known_objects/snacks!snkack/chips.jpg) |
-| mixed_nuts | ![](known_objects/snacks!snkack/mixed_nuts.jpg) |
 
 
 # Class cleaning_supplies (cleaning_supply)
