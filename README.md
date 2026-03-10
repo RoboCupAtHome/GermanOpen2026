@@ -52,6 +52,12 @@ Individual Task scores can be found [here](scores.md)
   - [Test Objects](objects/test_objects.md)
 - [Additional Objects](objects/test_objects.md)
 
+### Tasks
+
+#### Pick Place
+
+- "snacks" will be the trash category
+
 ## Robot Inspection and Poster Session
 ![](maps/map_robot_inspection.png)
 
