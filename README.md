@@ -1,4 +1,4 @@
-# Robocup Mockup 2026
+# Robocup GermanOpen 2026
 
 ## Table of Contents
 
@@ -32,9 +32,12 @@ Individual Task scores can be found [here](scores.md)
 
 ### Information
 
-- [Arena map](maps/arena.png)
-- [Location names](maps/location_names.md)
-- [Object List](objects/objects.md)
+- Arena
+  - [Arena map](maps/arena.png)
+  - [Location names](maps/location_names.md)
+- Objects
+  - [Known Objects](objects/known_objects.md)
+  - [Test Objects](objects/test_objects.md)
 - [Additional Objects](objects/test_objects.md)
 
 ## Robot Inspection and Poster Session
