@@ -2,7 +2,7 @@
 | Name  | 
 | ------------ |  
 | utiliy room | 
-| kitchen | 
+| bedroom | 
 | dining room | 
 | living room | 
 | corridor |
