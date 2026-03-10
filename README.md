@@ -46,6 +46,14 @@ Individual Task scores can be found [here](scores.md)
 | 3 | SCC         | ToBI            | b-it-bots  | NimbRo      |
 | 4 | ToBI        | b-it-bots       | NimbRo     | SCC         |
 
+#### Fri 13
+|   | HRI (5th) | Pick & Place (5th) | Laundry (5th) | GPSR (5th) | Restaurant |
+|---|-------------|-----------------|--------------------------|---------------------|---------------------|
+| 1 | ToBI     |  SCC         | b-it-bots | NimbRo     | ToBI         |
+| 2 | SCC      | b-it-bots    | NimbRo  | ToBI         | SCC          |
+| 3 | b-it-bots| NimbRo       | ToBI    | SCC          | b-it-bots    |
+| 4 | NimbRo   | ToBI         | SCC     | b-it-bots    | NimbRo       |
+
 ## Arenas
 
 ### Information
