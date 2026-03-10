@@ -13,20 +13,20 @@ Individual Task scores can be found [here](scores.md)
 
 ## Schedule
 
-|       | Tue 10 | Wed 11 | Thu 12 | Fri 13 |
-|-------|--------|--------|--------|--------|
+|       | Tue 10 | Wed 11 | Thu 12 | Fri 13 | Sat 14 |
+|-------|--------|--------|--------|--------| ------ |
 | 09:00 |        |        |        |        |
-| 10:00 |        | HRI Challenge (1st & 2nd try)  |        |        |
-| 11:00 |        |        |        |        |
-| 12:00 |        | Pick & Place (1st & 2nd try) |        |        |
-| 13:00 |        |        |        |        |
-| 14:00 |        | Doing Laundry (1st & 2nd try)|        |        |
+| 10:00 |        | HRI Challenge (1st & 2nd try)  |        |        |       |
+| 11:00 |        |        |        |        |       |
+| 12:00 |        | Pick & Place (1st & 2nd try) |        |        |       |
+| 13:00 |        |        |        |        |       |
+| 14:00 |        | Doing Laundry (1st & 2nd try)|        |        |       |
 | 15:00 |        |        |        |        |
-| 16:00 |        | GPSR (1st & 2nd try)|        |  Restaurant      |
-| 17:00 |        | Major Reception |        |        |
-| 18:00 |        |        |        |        |
-| 19:00 |        |        |        |        |
-| 20:00 |        |        |        |        |
+| 16:00 |        | GPSR (1st & 2nd try)|        |  Restaurant      |       |
+| 17:00 |        | Major Reception |        |        |       |
+| 18:00 |        |        |        |        |       |
+| 19:00 |        |        |        |        |       |
+| 20:00 |        |        |        |        |       |
 
 ## Arenas
 
