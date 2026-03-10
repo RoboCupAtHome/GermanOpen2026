@@ -36,7 +36,7 @@ Individual Task scores can be found [here](scores.md)
   - [Arena map](maps/arena.png)
   - [Location names](maps/location_names.md)
 - Objects
-  - [Known Objects](objects/known_objects.md)
+  - [Known Objects](objects/objects.md)
   - [Test Objects](objects/test_objects.md)
 - [Additional Objects](objects/test_objects.md)
 
