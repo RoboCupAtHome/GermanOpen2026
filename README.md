@@ -22,8 +22,8 @@ Individual Task scores can be found [here](scores.md)
 | 13:00 |        |        |        |        |
 | 14:00 |        | Doing Laundry (1st & 2nd try)|        |        |
 | 15:00 |        |        |        |        |
-| 16:00 |        | GPSR (1st & 2nd try)|        |        |
-| 17:00 |        |        |        |        |
+| 16:00 |        | GPSR (1st & 2nd try)|        |  Restaurant      |
+| 17:00 |        | Major Reception |        |        |
 | 18:00 |        |        |        |        |
 | 19:00 |        |        |        |        |
 | 20:00 |        |        |        |        |
