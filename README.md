@@ -16,13 +16,13 @@ Individual Task scores can be found [here](scores.md)
 |       | Tue 10 | Wed 11 | Thu 12 | Fri 13 |
 |-------|--------|--------|--------|--------|
 | 09:00 |        |        |        |        |
-| 10:00 |        | HRI Challenge  |        |        |
+| 10:00 |        | HRI Challenge (1st & 2nd try)  |        |        |
 | 11:00 |        |        |        |        |
-| 12:00 |        | Pick & Place |        |        |
+| 12:00 |        | Pick & Place (1st & 2nd try) |        |        |
 | 13:00 |        |        |        |        |
-| 14:00 |        | Doing Laundry |        |        |
+| 14:00 |        | Doing Laundry (1st & 2nd try)|        |        |
 | 15:00 |        |        |        |        |
-| 16:00 |        | GPSR   |        |        |
+| 16:00 |        | GPSR (1st & 2nd try)|        |        |
 | 17:00 |        |        |        |        |
 | 18:00 |        |        |        |        |
 | 19:00 |        |        |        |        |
