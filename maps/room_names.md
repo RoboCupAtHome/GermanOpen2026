@@ -3,7 +3,7 @@
 | ------------ |  
 | utiliy room | 
 | bedroom | 
-| dining room | 
+| kitchen | 
 | living room | 
 | corridor |
 
