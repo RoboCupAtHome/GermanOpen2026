@@ -23,10 +23,20 @@ Individual Task scores can be found [here](scores.md)
 | 14:00 |        | Doing Laundry (1st & 2nd try)|        |        |       |
 | 15:00 |        |        |        |        |
 | 16:00 |        | GPSR (1st & 2nd try)|        |  Restaurant      |       |
-| 17:00 |        | Major Reception |        |        |       |
-| 18:00 |        |        |        |        |       |
+| 17:00 | Robot Inspection | Major Reception |        |        |       |
+| 18:00 | Poster Session   |        |        |        |       |
 | 19:00 |        |        |        |        |       |
 | 20:00 |        |        |        |        |       |
+
+### Team Schedule
+
+#### Wed 11
+|    | RI & Poster | HRI (1st & 2nd) | Pick & Place (1st & 2nd) | Laundry (1st & 2nd) | GPSR (1st & 2nd) |
+| 1  | SCC         | SCC             | ToBI       | NimbRo   | b-it-bots |
+| 2  | ToBI        | ToBI            | NimbRo     | b-it-bots | SCC |
+| 3  | NimbRo      | NimbRo          | b-it-bots  | SCC | ToBI |
+| 4  | b-it-bots   | b-it-bots       | SCC        | ToBI | NimbRo |
+
 
 ## Arenas
 
