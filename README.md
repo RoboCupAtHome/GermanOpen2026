@@ -32,6 +32,7 @@ Individual Task scores can be found [here](scores.md)
 
 #### Wed 11
 |    | RI & Poster | HRI (1st & 2nd) | Pick & Place (1st & 2nd) | Laundry (1st & 2nd) | GPSR (1st & 2nd) |
+|-------|--------|--------|--------|--------| ------ |
 | 1  | SCC         | SCC             | ToBI       | NimbRo   | b-it-bots |
 | 2  | ToBI        | ToBI            | NimbRo     | b-it-bots | SCC |
 | 3  | NimbRo      | NimbRo          | b-it-bots  | SCC | ToBI |
