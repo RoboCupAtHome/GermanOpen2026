@@ -38,6 +38,13 @@ Individual Task scores can be found [here](scores.md)
 | 3 | NimbRo      | NimbRo          | b-it-bots                | SCC                 | ToBI             |
 | 4 | b-it-bots   | b-it-bots       | SCC                      | ToBI                | NimbRo           |
 
+#### Thu 12
+|   | HRI (3rd & 4th) | Pick & Place (3rd & 4th) | Laundry (3rd & 4th) | GPSR (3rd & 4th) |
+|---|-------------|-----------------|--------------------------|---------------------|
+| 1 | b-it-bots   | NimbRo          | SCC        | ToBI        |
+| 2 | NimbRo      | SCC             | ToBI       | b-it-bots   |
+| 3 | SCC         | ToBI            | b-it-bots  | NimbRo      |
+| 4 | ToBI        | b-it-bots       | NimbRo     | SCC         |
 
 ## Arenas
 
