@@ -1,10 +1,10 @@
 # Current Total Scores
-|  Team  | Total Score |
-| ------ | ----------: |
-| Nimbro |         980 |
-| Tobi   |         160 |
-| SCC    |           0 |
-| Bit    |           0 |
+|  Team  | Poster | Total Task Score | Total Score |
+| ------ | -------| --- | ---: |
+| Nimbro | 35 |        980 | 1015 |
+| Tobi   | 35 |        160 | 195  |
+| SCC    | 40 |          0 |  40  |
+| Bit    | 35 |          0 |  35  |
 
 # PP Run 2
 |  Team  | Score |
