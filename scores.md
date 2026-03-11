@@ -1,10 +1,26 @@
 # Current Total Scores
 |  Team  | Total Score |
 | ------ | ----------: |
-| Nimbro |         845 |
+| Nimbro |         980 |
 | Tobi   |         160 |
-| Bit    |           0 |
 | SCC    |           0 |
+| Bit    |           0 |
+
+# PP Run 2
+|  Team  | Score |
+| ------ | ----: |
+| Tobi   |     0 |
+| SCC    |     0 |
+| Bit    |     0 |
+| Nimbro |     0 |
+
+# PP Run 1
+|  Team  | Score |
+| ------ | ----: |
+| Nimbro |   135 |
+| Tobi   |     0 |
+| SCC    |     0 |
+| Bit    |     0 |
 
 # HRI Run 2
 |  Team  | Score |
