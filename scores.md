@@ -1,4 +1,4 @@
-# Total Scores
+# Total Scores (mean of best 2)
 |  Team  | DL  | GPSR |  HRI  | PP  | Poster | Total Score |
 | ------ | --: | ---: | ----: | --: | -----: | ----------: |
 | Nimbro |  65 |  805 | 572.5 | 140 |     35 |      1617.5 |
