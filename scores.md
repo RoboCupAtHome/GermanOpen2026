@@ -1,10 +1,26 @@
 # Current Total Scores
 |  Team  | Total Score |
 | ------ | ----------: |
-| Nimbro |        2640 |
-| Tobi   |        1275 |
-| SCC    |         265 |
+| Nimbro |        3620 |
+| Tobi   |        1725 |
+| SCC    |         460 |
 | Bit    |          35 |
+
+# HRI Run 4
+|  Team  | Score |
+| ------ | ----: |
+| Nimbro |   365 |
+| Tobi   |   260 |
+| SCC    |    50 |
+| Bit    |     0 |
+
+# HRI Run 3
+|  Team  | Score |
+| ------ | ----: |
+| Nimbro |   615 |
+| Tobi   |   190 |
+| SCC    |   145 |
+| Bit    |     0 |
 
 # GPSR Run 2
 |  Team  | Score |
