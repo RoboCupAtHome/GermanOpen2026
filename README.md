@@ -13,20 +13,20 @@ Individual Task scores can be found [here](scores.md)
 
 ## Schedule
 
-|       | Tue 10           | Wed 11                        | Thu 12                        | Fri 13     | Sat 14 |
-|-------|------------------|-------------------------------|-------------------------------|------------|--------|
-| 09:00 |                  |                               |                               |            |        |
-| 10:00 |                  | HRI Challenge (1st & 2nd try) | HRI Challenge (3rd & 4th try) | HRI Challenge (5th try)  |        |
+|       | Tue 10           | Wed 11                        | Thu 12                        | Fri 13                  | Sat 14 |
+|-------|------------------|-------------------------------|-------------------------------|-------------------------|--------|
+| 09:00 |                  |                               |                               |                         |        |
+| 10:00 |                  | HRI Challenge (1st & 2nd try) | HRI Challenge (3rd & 4th try) | HRI Challenge (5th try) |        |
 | 11:00 |                  |                               | Opening Ceremony: 11:45–12:15 | Pick & Place (5th try)  |        |
-| 12:00 |                  | Pick & Place (1st & 2nd try)  |                               |      |        |
-| 13:00 |                  |                               | Pick & Place (3rd & 4th try)   | Doing Laundry (5th try) |        |
-| 14:00 |                  | Doing Laundry (1st & 2nd try) |                               | GPSR (5th try)           |        |
-| 15:00 |                  |                               | Doing Laundry (3rd & 4th try) |            |        |
-| 16:00 |                  | GPSR (1st & 2nd try)          |                               | Restaurant |        |
-| 17:00 | Robot Inspection | Major Reception               | GPSR (3rd & 4th try)          |            |        |
-| 18:00 | Poster Session   |                               |                               |            |        |
-| 19:00 |                  | Team Leader Meeting           | Team Leader Meeting           |  Team Leader Meeting |        |
-| 20:00 |                  |                               |                               |            |        |
+| 12:00 |                  | Pick & Place (1st & 2nd try)  |                               |                         |        |
+| 13:00 |                  |                               | Pick & Place (3rd & 4th try)  | Doing Laundry (5th try) |        |
+| 14:00 |                  | Doing Laundry (1st & 2nd try) |                               | GPSR (5th try)          |        |
+| 15:00 |                  |                               | Doing Laundry (3rd & 4th try) |                         |        |
+| 16:00 |                  | GPSR (1st & 2nd try)          |                               | Restaurant              |        |
+| 17:00 | Robot Inspection | Major Reception               | GPSR (3rd & 4th try)          |                         |        |
+| 18:00 | Poster Session   |                               |                               |                         |        |
+| 19:00 |                  | Team Leader Meeting           | Team Leader Meeting           | Team Leader Meeting     |        |
+| 20:00 |                  |                               |                               |                         |        |
 
 ### Team Schedule
 
@@ -40,19 +40,19 @@ Individual Task scores can be found [here](scores.md)
 
 #### Thu 12
 |   | HRI (3rd & 4th) | Pick & Place (3rd & 4th) | Laundry (3rd & 4th) | GPSR (3rd & 4th) |
-|---|-------------|-----------------|--------------------------|---------------------|
-| 1 | b-it-bots   | NimbRo          | SCC        | ToBI        |
-| 2 | NimbRo      | SCC             | ToBI       | b-it-bots   |
-| 3 | SCC         | ToBI            | b-it-bots  | NimbRo      |
-| 4 | ToBI        | b-it-bots       | NimbRo     | SCC         |
+|---|-----------------|--------------------------|---------------------|------------------|
+| 1 | b-it-bots       | NimbRo                   | SCC                 | ToBI             |
+| 2 | NimbRo          | SCC                      | ToBI                | b-it-bots        |
+| 3 | SCC             | ToBI                     | b-it-bots           | NimbRo           |
+| 4 | ToBI            | b-it-bots                | NimbRo              | SCC              |
 
 #### Fri 13
 |   | HRI (5th) | Pick & Place (5th) | Laundry (5th) | GPSR (5th) | Restaurant |
-|---|-------------|-----------------|--------------------------|---------------------|---------------------|
-| 1 | ToBI     |  SCC         | b-it-bots | NimbRo     | ToBI         |
-| 2 | SCC      | b-it-bots    | NimbRo  | ToBI         | SCC          |
-| 3 | b-it-bots| NimbRo       | ToBI    | SCC          | b-it-bots    |
-| 4 | NimbRo   | ToBI         | SCC     | b-it-bots    | NimbRo       |
+|---|-----------|--------------------|---------------|------------|------------|
+| 1 | ToBI      | SCC                | b-it-bots     | NimbRo     | ToBI       |
+| 2 | SCC       | b-it-bots          | NimbRo        | ToBI       | SCC        |
+| 3 | b-it-bots | NimbRo             | ToBI          | SCC        | b-it-bots  |
+| 4 | NimbRo    | ToBI               | SCC           | b-it-bots  | NimbRo     |
 
 ## Arenas
 

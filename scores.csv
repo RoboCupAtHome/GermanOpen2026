@@ -1,69 +1,69 @@
-Stage,Task,Team,Score
-1,Poster,Tobi,35
-1,Poster,SCC,40
-1,Poster,Nimbro,35
-1,Poster,Bit,35
-1,HRI Run 1,Tobi,80
-1,HRI Run 2,Tobi,80
-1,HRI Run 1,SCC,0
-1,HRI Run 2,SCC,0
-1,HRI Run 1,Bit,0
-1,HRI Run 2,Bit,0
-1,HRI Run 1,Nimbro,315
-1,HRI Run 2,Nimbro,530
-1,PP Run 1,Tobi,0
-1,PP Run 2,Tobi,0
-1,PP Run 1,SCC,0
-1,PP Run 2,SCC,0
-1,PP Run 1,Bit,0
-1,PP Run 2,Bit,0
-1,PP Run 1,Nimbro,135
-1,PP Run 2,Nimbro,0
-1,DL Run 1,Tobi,15
-1,DL Run 2,Tobi,15
-1,DL Run 1,SCC,15
-1,DL Run 2,SCC,15
-1,DL Run 1,Bit,0
-1,DL Run 2,Bit,0
-1,DL Run 1,Nimbro,15
-1,DL Run 2,Nimbro,0
-1,GPSR Run 1,Tobi,495
-1,GPSR Run 2,Tobi,555
-1,GPSR Run 1,SCC,195
-1,GPSR Run 2,SCC,0
-1,GPSR Run 1,Nimbro,805
-1,GPSR Run 2,Nimbro,805
-1,GPSR Run 1,Bit,0
-1,GPSR Run 2,Bit,0
-1,HRI Run 3,Tobi,190
-1,HRI Run 4,Tobi,260
-1,HRI Run 3,SCC,145
-1,HRI Run 4,SCC,50
-1,HRI Run 3,Bit,0
-1,HRI Run 4,Bit,0
-1,HRI Run 3,Nimbro,615
-1,HRI Run 4,Nimbro,365
-1,PP Run 3,Tobi,170
-1,PP Run 4,Tobi,0
-1,PP Run 3,SCC,35
-1,PP Run 4,SCC,35
-1,PP Run 3,Bit,0
-1,PP Run 4,Bit,0
-1,PP Run 3,Nimbro,145
-1,PP Run 4,Nimbro,85
-1,DL Run 3,Tobi,15
-1,DL Run 4,Tobi,15
-1,DL Run 3,SCC,15
-1,DL Run 4,SCC,15
-1,DL Run 3,Bit,0
-1,DL Run 4,Bit,0
-1,DL Run 3,Nimbro,115
-1,DL Run 4,Nimbro,15
-1,GPSR Run 3,Tobi,555
-1,GPSR Run 4,Tobi,0
-1,GPSR Run 3,SCC,570
-1,GPSR Run 4,SCC,570
-1,GPSR Run 3,Nimbro,355
-1,GPSR Run 4,Nimbro,470
-1,GPSR Run 3,Bit,0
-1,GPSR Run 4,Bit,0
+Task,Team,Score
+Poster,Tobi,35
+Poster,SCC,40
+Poster,Nimbro,35
+Poster,Bit,35
+HRI,Tobi,80
+HRI,Tobi,80
+HRI,SCC,0
+HRI,SCC,0
+HRI,Bit,0
+HRI,Bit,0
+HRI,Nimbro,315
+HRI,Nimbro,530
+PP,Tobi,0
+PP,Tobi,0
+PP,SCC,0
+PP,SCC,0
+PP,Bit,0
+PP,Bit,0
+PP,Nimbro,135
+PP,Nimbro,0
+DL,Tobi,15
+DL,Tobi,15
+DL,SCC,15
+DL,SCC,15
+DL,Bit,0
+DL,Bit,0
+DL,Nimbro,15
+DL,Nimbro,0
+GPSR,Tobi,495
+GPSR,Tobi,555
+GPSR,SCC,195
+GPSR,SCC,0
+GPSR,Nimbro,805
+GPSR,Nimbro,805
+GPSR,Bit,0
+GPSR,Bit,0
+HRI,Tobi,190
+HRI,Tobi,260
+HRI,SCC,145
+HRI,SCC,50
+HRI,Bit,0
+HRI,Bit,0
+HRI,Nimbro,615
+HRI,Nimbro,365
+PP,Tobi,170
+PP,Tobi,0
+PP,SCC,35
+PP,SCC,35
+PP,Bit,0
+PP,Bit,0
+PP,Nimbro,145
+PP,Nimbro,85
+DL,Tobi,15
+DL,Tobi,15
+DL,SCC,15
+DL,SCC,15
+DL,Bit,0
+DL,Bit,0
+DL,Nimbro,115
+DL,Nimbro,15
+GPSR,Tobi,555
+GPSR,Tobi,0
+GPSR,SCC,570
+GPSR,SCC,570
+GPSR,Nimbro,355
+GPSR,Nimbro,470
+GPSR,Bit,0
+GPSR,Bit,0
