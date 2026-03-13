@@ -26,7 +26,7 @@ Individual Task scores can be found [here](scores.md)
 | 09:00 |                  |                               |                               |                         |        |
 | 10:00 |                  | HRI Challenge (1st & 2nd try) | HRI Challenge (3rd & 4th try) | HRI Challenge (5th try) |        |
 | 11:00 |                  |                               | Opening Ceremony: 11:45–12:15 | Pick & Place (5th try)  |        |
-| 12:00 |                  | Pick & Place (1st & 2nd try)  |                               |                         |        |
+| 12:00 |                  | Pick & Place (1st & 2nd try)  |                               |                         | Final  |
 | 13:00 |                  |                               | Pick & Place (3rd & 4th try)  | Doing Laundry (5th try) |        |
 | 14:00 |                  | Doing Laundry (1st & 2nd try) |                               | GPSR (5th try)          |        |
 | 15:00 |                  |                               | Doing Laundry (3rd & 4th try) |                         |        |
