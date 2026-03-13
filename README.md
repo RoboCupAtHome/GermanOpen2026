@@ -9,6 +9,14 @@
 
 ## Scores
 
+# Total Scores (mean of best 2)
+|  Team  | DL  | GPSR | HRI |  PP   | Poster | Total Score |
+| ------ | --: | ---: | --: | ----: | -----: | ----------: |
+| Nimbro | 465 |  805 | 870 | 140.0 |     35 |      2315.0 |
+| Tobi   |  15 |  555 | 370 | 127.5 |     35 |      1102.5 |
+| SCC    |  15 |  570 | 435 |  35.0 |     40 |      1095.0 |
+| Bit    |   0 |    0 |   0 |   0.0 |     35 |        35.0 |
+
 Individual Task scores can be found [here](scores.md)
 
 ## Schedule

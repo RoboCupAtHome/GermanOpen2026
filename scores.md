@@ -1,11 +1,3 @@
-# Total Scores (mean of best 2)
-|  Team  | DL  | GPSR | HRI |  PP   | Poster | Total Score |
-| ------ | --: | ---: | --: | ----: | -----: | ----------: |
-| Nimbro |  65 |  805 | 870 | 140.0 |     35 |      1915.0 |
-| Tobi   |  15 |  555 | 370 | 127.5 |     35 |      1102.5 |
-| SCC    |  15 |  570 | 435 |  35.0 |     40 |      1095.0 |
-| Bit    |   0 |    0 |   0 |   0.0 |     35 |        35.0 |
-
 # GPSR
 | index |  Team  | Score |
 | ----: | ------ | ----: |
@@ -15,36 +7,52 @@
 |     3 | SCC    |   570 |
 |     4 | Tobi   |   555 |
 |     5 | Tobi   |   555 |
-|     6 | Tobi   |   495 |
-|     7 | Nimbro |   470 |
-|     8 | Nimbro |   355 |
-|     9 | SCC    |   195 |
-|    10 | SCC    |     0 |
-|    11 | Bit    |     0 |
-|    12 | Bit    |     0 |
-|    13 | Tobi   |     0 |
-|    14 | Bit    |     0 |
-|    15 | Bit    |     0 |
+|     6 | Nimbro |   540 |
+|     7 | Tobi   |   495 |
+|     8 | Nimbro |   470 |
+|     9 | Tobi   |   425 |
+|    10 | Tobi   |   410 |
+|    11 | Nimbro |   380 |
+|    12 | Nimbro |   355 |
+|    13 | SCC    |   195 |
+|    14 | SCC    |   160 |
+|    15 | SCC    |     0 |
+|    16 | Bit    |     0 |
+|    17 | Bit    |     0 |
+|    18 | Tobi   |     0 |
+|    19 | Bit    |     0 |
+|    20 | Bit    |     0 |
+|    21 | SCC    |     0 |
+|    22 | Bit    |     0 |
+|    23 | Bit    |     0 |
 
 # DL
 | index |  Team  | Score |
 | ----: | ------ | ----: |
-|     0 | Nimbro |   115 |
-|     1 | Tobi   |    15 |
-|     2 | SCC    |    15 |
+|     0 | Nimbro |   615 |
+|     1 | Nimbro |   315 |
+|     2 | Nimbro |   115 |
 |     3 | Tobi   |    15 |
 |     4 | Nimbro |    15 |
-|     5 | SCC    |    15 |
-|     6 | Tobi   |    15 |
+|     5 | Tobi   |    15 |
+|     6 | SCC    |    15 |
 |     7 | SCC    |    15 |
 |     8 | SCC    |    15 |
-|     9 | Nimbro |    15 |
+|     9 | SCC    |    15 |
 |    10 | Tobi   |    15 |
-|    11 | Bit    |     0 |
-|    12 | Nimbro |     0 |
-|    13 | Bit    |     0 |
-|    14 | Bit    |     0 |
-|    15 | Bit    |     0 |
+|    11 | Tobi   |    15 |
+|    12 | SCC    |    15 |
+|    13 | Nimbro |    15 |
+|    14 | SCC    |    15 |
+|    15 | Tobi   |    15 |
+|    16 | Nimbro |     0 |
+|    17 | Bit    |     0 |
+|    18 | Bit    |     0 |
+|    19 | Bit    |     0 |
+|    20 | Bit    |     0 |
+|    21 | Tobi   |     0 |
+|    22 | Bit    |     0 |
+|    23 | Bit    |     0 |
 
 # PP
 | index |  Team  | Score |
