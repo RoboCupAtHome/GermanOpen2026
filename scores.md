@@ -1,3 +1,11 @@
+# Restaurant
+| index |  Team  | Score |
+| ----: | ------ | ----: |
+|     0 | Nimbro |  1120 |
+|     1 | SCC    |   200 |
+|     2 | Tobi   |     0 |
+|     3 | Bit    |     0 |
+
 # GPSR
 | index |  Team  | Score |
 | ----: | ------ | ----: |
